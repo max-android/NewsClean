@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NewsClean</string>
+    <string name="error">Ошибка получения данных !!!</string>
+    <string name="news">Новости</string>
+    <string name="detail">Подробности</string>
+</resources>
